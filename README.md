@@ -1,1 +1,1 @@
-# IQS_GitFlow_Teste
+Versão v1.0 em preparação
